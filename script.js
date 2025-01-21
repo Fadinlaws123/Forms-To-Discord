@@ -47,16 +47,16 @@ function onSubmit(e) {
                 "title": "EMBED TITLE",
                 "description": "SCRIPT DESCRIPTION",
                 "thumbnail": {
-            		    url: 'https://i.imgur.com/AfFp7pu.png',
+            		    url: 'https://cdn.discordapp.com/icons/1066225230479101972/88ffeb74a180ed40f5d49278259cbb8e.webp?size=1024&format=webp&width=640&height=640',
             	  },
                 "color": 33023, // You can look for decimal colour codes at https://www.webtoolkitonline.com/hexadecimal-decimal-color-converter.html
                 "fields": items,
                 "footer": {
-                    "text": "Department AutoLog",
-                    "icon_url": "
+                    "text": "Footer Message",
+                    "icon_url": "https://cdn.discordapp.com/icons/1066225230479101972/88ffeb74a180ed40f5d49278259cbb8e.webp?size=1024&format=webp&width=640&height=640"
                 },
                 "image": {
-              		url: 'https://i.imgur.com/AfFp7pu.png',
+              		url: 'https://cdn.discordapp.com/icons/1066225230479101972/88ffeb74a180ed40f5d49278259cbb8e.webp?size=1024&format=webp&width=640&height=640',
               	},
                 "timestamp": new Date().toISOString()
             }]
